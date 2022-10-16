@@ -1,0 +1,232 @@
+body{
+
+	background-image: url(https://static.vecteezy.com/system/resources/previews/002/202/047/original/blue-high-tech-futuristic-cyberspace-technology-background-free-vector.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: black;}
+
+.link{
+	font-family: monospace;
+	color: white;
+	font-size: 15px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.titulo{
+	margin-left: 30px;
+	width:300px ;
+	font-size: 50px;
+	color: white;
+	margin-top: 230px;
+	font-family: 'Noto Sans Mono', monospace;}
+
+.cuadradofondo{
+	margin-top:260px;
+	margin-right: 0px;
+	margin-left: 0px;
+	background-color: black;
+	height: 2000px;
+	width: auto;}
+.subtitulo1{
+	color: white;
+	font-family: monospace;
+	font-size: 25px;
+	margin-left: 50px;
+	margin-top: 300px;
+	width: 150px;
+	background-color: midnightblue;}
+.infoautor{
+	margin-top: 2px;
+	margin-left: 30px;
+	color: white;
+	font-family: monospace;
+	font-size: 18px;}
+.infooautor{
+	margin-left: 30px;
+	color: white;
+	font-family: monospace;
+	font-size: 18px;
+	width: 800px;}
+.obras{
+	margin-left: 30px;
+	color: white;
+	font-family: monospace;
+	font-size: 18px;
+	width: 800px;}
+
+.fotojorge{
+	margin-left: 950px;
+	margin-top: 300px;
+	position: absolute;
+	width: 280px;
+	height: 280px;
+	border-radius: 100%;}
+.resumen{
+	color: white;
+	font-family: monospace;
+	font-size: 25px;
+	margin-left: 50px;
+	margin-top: 100px;
+	width: 200px;
+	background-color: navy;}
+
+	.fotolibro{
+	position: absolute;
+	margin-left: 650px;
+	width: 180px;
+	height: 250px;
+	margin-top: 50px;
+	border-radius: 2%;
+}
+
+.diversidad{
+	color: white;
+	font-family:'Noto Sans Mono', monospace;
+	font-style: light;
+	font-size: 15px;
+	margin-left: 30px;
+	margin-top: 0px;
+	position: absolute;
+	width: 500px;
+	height: 160px;
+	background-color: black ;
+	padding-right: auto;
+	padding-left: 25px;
+	display: inline-block;
+}
+.diversidad2{
+	color: white;
+	font-family: monospace;
+	font-size: 15px;
+	margin-left: 30px;
+	margin-top: 200px;
+	position: absolute;
+	width: 500px;
+	height: 150px;
+	background-color:#001d3d;
+	padding-right: auto;
+	padding-left: 25px;
+
+
+}
+.necesidad{
+	color: white;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 15px;
+	margin-left: 900px;
+	margin-top:0px;
+	width: 500px;
+	height: 200px;
+	background-color: #001d3d;
+	padding-right: auto;
+	padding-left: 25px;
+	display: inline-block;
+}
+.necesidad2{
+	color: white;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 15px;
+	margin-left: 900px;
+	margin-top:30px;
+	width: 500px;
+	height: 150px;
+	background-color: black;
+	padding-right: auto;
+	padding-left: 25px;}
+.evolucion{
+	color: white;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 15px;
+	margin-left: 30px;
+	margin-top:30px;
+	width: 800px;
+	height: 100px;
+	background-color: black;
+	padding-top: 2px;
+	padding-right: auto;
+	padding-left: 25px;}
+.evolucion2{
+	color: white;
+	font-family: 'Roboto Mono', monospace;
+	font-size: 15px;
+	margin-left: 900px;
+	margin-top:30px;
+	width: 500px;
+	height: 100px;
+	background-color: #2f3e46;
+	padding-right: auto;
+	padding-left: 25px;
+	position: absolute;}
+.reflexion{
+	color: white;
+	font-family: monospace;
+	font-size: 25px;
+	margin-left: 50px;
+	margin-top: 150px;
+	width: 300px;
+	background-color: #023e8a;
+}
+.svg{
+	background-color:#005f73;
+	width: 300px;
+	height: 300px;
+	border-radius: 60%;
+	position: absolute;
+	margin-top: 300px;
+	margin-left: 50px;
+}
+.idea1{
+	color: #023e8a;
+	font-family: monospace;
+	font-size:10px;
+	margin-left:450px;
+	margin-top: 0px;
+	width: auto;
+}
+.ideaa1{
+	color: white;
+	font-family: monospace;
+	font-size:15px;
+	margin-top:0px;
+	margin-left:450px;
+	width: 900px;
+}
+.idea2{
+	color: #023e8a;
+	font-family: monospace;
+	font-size:10px;
+	margin-left:450px;
+	margin-top: 0px;
+	width: auto;
+}
+.ideaa2{
+	color: white;
+	font-family: monospace;
+	font-size:15px;
+	margin-top:0px;
+	margin-left:450px;
+	width: 900px;
+}
+.idea3{
+	color: #023e8a;
+	font-family: monospace;
+	font-size:10px;
+	margin-left:450px;
+	margin-top: 0px;
+	width: auto;
+}
+.ideaa3{
+	color: white;
+	font-family: monospace;
+	font-size:15px;
+	margin-top:0px;
+	margin-left:450px;
+	width: 900px;
+}
+
+.bibliografia{
+	font-family: monospace;
+	color: skyblue;
+	margin-top: 100px;
+}
+
